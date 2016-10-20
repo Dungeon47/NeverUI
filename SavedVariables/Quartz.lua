@@ -18,6 +18,18 @@ Quartz3DB = {
 		},
 		["Range"] = {
 		},
+		["Focus"] = {
+			["profiles"] = {
+				["NeverUI"] = {
+					["font"] = "Antigoni",
+					["x"] = 539.999990229608,
+				},
+			},
+		},
+		["EnemyCasts"] = {
+		},
+		["GCD"] = {
+		},
 		["Procs"] = {
 			["profiles"] = {
 				["Default"] = {
@@ -33,37 +45,6 @@ Quartz3DB = {
 					["52610"] = {
 						["enabled"] = false,
 					},
-				},
-			},
-		},
-		["Player"] = {
-			["profiles"] = {
-				["NeverUI"] = {
-					["h"] = 20,
-					["nametextx"] = 0,
-					["w"] = 190,
-					["y"] = 232,
-					["x"] = 860,
-					["icongap"] = 5,
-					["iconposition"] = "right",
-					["fontsize"] = 15,
-					["texture"] = "Melli",
-					["nametextposition"] = "center",
-					["timetextx"] = 1,
-					["timetextposition"] = "center",
-					["nametexty"] = 8,
-					["font"] = "Antigoni",
-					["timetexty"] = -3,
-				},
-			},
-		},
-		["GCD"] = {
-		},
-		["Focus"] = {
-			["profiles"] = {
-				["NeverUI"] = {
-					["font"] = "Antigoni",
-					["x"] = 539.999990229608,
 				},
 			},
 		},
@@ -104,7 +85,26 @@ Quartz3DB = {
 				},
 			},
 		},
-		["EnemyCasts"] = {
+		["Player"] = {
+			["profiles"] = {
+				["NeverUI"] = {
+					["h"] = 20,
+					["nametextx"] = 0,
+					["w"] = 190,
+					["y"] = 232,
+					["x"] = 860,
+					["icongap"] = 5,
+					["iconposition"] = "right",
+					["fontsize"] = 15,
+					["texture"] = "Melli",
+					["nametextposition"] = "center",
+					["timetextx"] = 1,
+					["timetextposition"] = "center",
+					["nametexty"] = 8,
+					["font"] = "Antigoni",
+					["timetexty"] = -3,
+				},
+			},
 		},
 		["Latency"] = {
 			["profiles"] = {
@@ -123,14 +123,14 @@ Quartz3DB = {
 	["profileKeys"] = {
 		["Worksfortips - Wyrmrest Accord"] = "NeverUI",
 		["Hermy - Wyrmrest Accord"] = "NeverUI",
-		["Novalon - Wyrmrest Accord"] = "NeverUI",
 		["Neversane - Uldum"] = "NeverUI",
-		["Neversage - Wyrmrest Accord"] = "NeverUI",
 		["Ashidakim - Wyrmrest Accord"] = "NeverUI",
 		["Zeldarya - Wyrmrest Accord"] = "NeverUI",
+		["Neversage - Wyrmrest Accord"] = "NeverUI",
 		["Mygraine - Wyrmrest Accord"] = "NeverUI",
 		["Shakkleford - Wyrmrest Accord"] = "NeverUI",
 		["Neversage - Beta Leveling Realm 01"] = "NeverUI",
+		["Novalon - Wyrmrest Accord"] = "NeverUI",
 	},
 	["profiles"] = {
 		["NeverUI"] = {

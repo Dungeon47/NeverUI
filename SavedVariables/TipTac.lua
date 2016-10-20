@@ -87,13 +87,13 @@ TipTac_Config = {
 	["modifyFonts"] = true,
 	["classification_worldboss"] = "%s|r (Boss) ",
 	["backdropInsets"] = 2.5,
-	["iconAnchor"] = "TOPLEFT",
+	["classification_rareelite"] = "+%s|r (Rare) ",
 	["showPlayerGender"] = true,
 	["if_borderlessIcons"] = false,
 	["showMSPDescExists"] = false,
 	["colorNameByClass"] = true,
 	["talentFormat"] = 2,
-	["classification_rareelite"] = "+%s|r (Rare) ",
+	["classColoredBorder"] = true,
 	["tipBorderColor"] = {
 		0, -- [1]
 		0, -- [2]
@@ -115,7 +115,7 @@ TipTac_Config = {
 		1, -- [4]
 	},
 	["barsCondenseValues"] = true,
-	["classColoredBorder"] = true,
+	["iconAnchor"] = "TOPLEFT",
 	["iconClass"] = false,
 	["colReactBack6"] = {
 		0, -- [1]

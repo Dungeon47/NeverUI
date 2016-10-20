@@ -34,7 +34,7 @@ SkinnerDB = {
 	["profiles"] = {
 		["NeverUI"] = {
 			["BgUseTex"] = true,
-			["BdTexture"] = "DressUp-Scourge",
+			["BdTexture"] = "Unholy DK TalentBG",
 			["ScriptErrors"] = false,
 			["CastingBar"] = {
 				["glaze"] = false,
@@ -43,24 +43,18 @@ SkinnerDB = {
 			["Backdrop"] = {
 				["a"] = 0.850000008940697,
 			},
-			["DisabledSkins"] = {
-				["Bartender4"] = false,
-				["Bagnon"] = false,
-			},
+			["DropDownButtons"] = true,
 			["Gradient"] = {
 				["char"] = false,
-				["ui"] = false,
-				["skinner"] = false,
 				["enable"] = false,
 				["npc"] = false,
+				["ui"] = false,
+				["skinner"] = false,
 			},
 			["ChatButtons"] = false,
 			["ChatBubbles"] = false,
 			["TexturedDD"] = true,
-			["WorldMap"] = {
-				["size"] = 2,
-				["skin"] = false,
-			},
+			["MovieProgress"] = true,
 			["BdTileSize"] = 128,
 			["BgTexture"] = "Unholy DK TalentBG",
 			["StatusBar"] = {
@@ -71,24 +65,24 @@ SkinnerDB = {
 			},
 			["BodyText"] = {
 				["a"] = 1,
-				["b"] = 0.827450980392157,
-				["g"] = 0.827450980392157,
 				["r"] = 0.827450980392157,
+				["g"] = 0.827450980392157,
+				["b"] = 0.827450980392157,
 			},
 			["ObjectiveTracker"] = {
 				["popups"] = false,
 			},
 			["SocialUI"] = true,
 			["BackdropBorder"] = {
-				["b"] = 0,
-				["g"] = 0,
 				["r"] = 0,
+				["g"] = 0,
+				["b"] = 0,
 			},
 			["BdDefault"] = false,
 			["GMSurveyUI"] = false,
 			["Delay"] = {
-				["Addons"] = 0,
 				["Init"] = 0,
+				["Addons"] = 0,
 			},
 			["TimeManager"] = false,
 			["MinimapButtons"] = {
@@ -97,15 +91,18 @@ SkinnerDB = {
 			["SplashFrame"] = false,
 			["HeadText"] = {
 				["a"] = 1,
-				["b"] = 0.564705882352941,
-				["g"] = 0.556862745098039,
 				["r"] = 0.505882352941176,
+				["g"] = 0.556862745098039,
+				["b"] = 0.564705882352941,
 			},
-			["MovieProgress"] = true,
+			["WorldMap"] = {
+				["skin"] = false,
+				["size"] = 2,
+			},
 			["GradientMax"] = {
-				["b"] = 0,
-				["g"] = 0,
 				["r"] = 0,
+				["g"] = 0,
+				["b"] = 0,
 			},
 			["OrderHallUI"] = false,
 			["ChatTabsFade"] = false,
@@ -113,9 +110,9 @@ SkinnerDB = {
 			["ZoneAbility"] = false,
 			["DebugTools"] = false,
 			["TooltipBorder"] = {
-				["b"] = 0,
-				["g"] = 0,
 				["r"] = 0,
+				["g"] = 0,
+				["b"] = 0,
 			},
 			["AuthChallengeUI"] = true,
 			["MainMenuBar"] = {
@@ -136,12 +133,15 @@ SkinnerDB = {
 			["BdEdgeSize"] = 24,
 			["GradientMin"] = {
 				["a"] = 0.5,
-				["b"] = 0.101960784313726,
-				["g"] = 0.101960784313726,
 				["r"] = 0.101960784313726,
+				["g"] = 0.101960784313726,
+				["b"] = 0.101960784313726,
 			},
 			["OverrideActionBar"] = false,
-			["DropDownButtons"] = true,
+			["DisabledSkins"] = {
+				["Bartender4"] = false,
+				["Bagnon"] = false,
+			},
 			["HelpFrame"] = false,
 		},
 	},
