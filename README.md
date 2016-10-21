@@ -8,10 +8,10 @@ Addons:
 - LibSharedMedia3.0
 - Masque
 - Masque: Shadow
-- MoveAnything
 - PitBull4
 - Quartz
 - Raven
 - Skinner
 - TipTac
+- WeakAuras2
 
