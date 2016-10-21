@@ -1,0 +1,26 @@
+------------------------------------------------------------------------
+r58285 | seerah | 2008-01-11 15:46:05 -0500 (Fri, 11 Jan 2008) | 2 lines
+Changed paths:
+   M /trunk/SharedMedia-Blizzard
+
+SharedMedia-Blizzard:
+- added externals
+------------------------------------------------------------------------
+r58283 | seerah | 2008-01-11 15:26:51 -0500 (Fri, 11 Jan 2008) | 2 lines
+Changed paths:
+   A /trunk/SharedMedia-Blizzard
+   A /trunk/SharedMedia-Blizzard/Backgrounds
+   A /trunk/SharedMedia-Blizzard/Backgrounds/Elite.tga
+   A /trunk/SharedMedia-Blizzard/Backgrounds/EliteLeft.tga
+   A /trunk/SharedMedia-Blizzard/Backgrounds/Rare.tga
+   A /trunk/SharedMedia-Blizzard/Backgrounds/RareLeft.tga
+   A /trunk/SharedMedia-Blizzard/Backgrounds/UI-MainMenuBar-EndCap-Dwarf-right.blp
+   A /trunk/SharedMedia-Blizzard/Backgrounds/UI-MainMenuBar-EndCap-Human-right.blp
+   A /trunk/SharedMedia-Blizzard/SharedMedia-Blizzard.toc
+   A /trunk/SharedMedia-Blizzard/core.lua
+   A /trunk/SharedMedia-Blizzard/embeds.xml
+   A /trunk/SharedMedia-Blizzard/readme.txt
+
+SharedMedia-Blizzard: initial commit
+- Injects media into LibSharedMedia-2.0.  Textures already located in the game and a couple edited ones.
+------------------------------------------------------------------------

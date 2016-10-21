@@ -1,0 +1,28 @@
+------------------------------------------------------------------------
+r66263 | seerah | 2008-03-26 23:15:18 -0400 (Wed, 26 Mar 2008) | 2 lines
+Changed paths:
+   M /trunk/SharedMedia-Blizzard/SharedMedia-Blizzard.toc
+
+SharedMedia-Blizzard:
+- toc bump
+------------------------------------------------------------------------
+r64174 | seerah | 2008-03-10 16:22:55 -0400 (Mon, 10 Mar 2008) | 2 lines
+Changed paths:
+   M /trunk/SharedMedia-Blizzard/SharedMedia-Blizzard.toc
+
+SharedMedia-Blizzard:
+- fixed typo which kept SM-Blizzard from loading
+------------------------------------------------------------------------
+r63750 | elsia | 2008-03-06 12:46:24 -0500 (Thu, 06 Mar 2008) | 2 lines
+Changed paths:
+   M /trunk/SharedMedia-Blizzard
+   A /trunk/SharedMedia-Blizzard/SharedMedia-Blizzard.lua
+   M /trunk/SharedMedia-Blizzard/SharedMedia-Blizzard.toc
+   M /trunk/SharedMedia-Blizzard/core.lua
+   M /trunk/SharedMedia-Blizzard/embeds.xml
+   A /trunk/SharedMedia-Blizzard/libs
+   A /trunk/SharedMedia-Blizzard/libs/LibStub.lua
+
+SharedMedia-Blizzard:
+- Now registers with whichever shared media library is present (SML, LSM-2.0, LSM-3.0).
+------------------------------------------------------------------------
