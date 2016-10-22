@@ -1,6 +1,10 @@
 NeverUI 1.0
 =================
 
+Installation guide:
+https://youtu.be/kjGYmaSBtfI
+If you want to share the UI with others, share the video link; it has everything.
+
 Addons:
 -----------------
 - Bartender4
